@@ -976,7 +976,7 @@ Also note, that maqgnetic declination changes with time, so recheck your value e
      * It must be 16 characters total,
      * The last 4 characters will be overwritten with the version number.
      */
-    #define BOARD_NAME "MultiWii   V-.--"
+    #define BOARD_NAME "MWR   V-.--"
     //                  123456789.123456
 
   /*************      Support multiple configuration profiles in EEPROM     ************/

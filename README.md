@@ -18,5 +18,5 @@ Changes in the Future
 
 
 MultiWiiReloaded Website but not Finshed
-https://lejosplayy.github.io/MultiWiiReloaded/
+https://lejosplayy.github.io/MultiWiiReloaded/index.html
 

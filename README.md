@@ -4,9 +4,6 @@ It is based on the well-known and popular Multiwii firmware, which was not updat
 
 User features are always welcome. 
 
-MWR is a completely free platform, 
-but donations are also appreciated at the following BNB BEP20 address: 
-0xe08f95573043F5eA697336e15f9A83dCa66b4A54
 
 -Better ConfigGUI > Download Here [https://github.com/LeJosplayy/MultiWiiReloaded/releases/tag/MWR-GUI-Windows64Bit]
 

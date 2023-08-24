@@ -18,9 +18,10 @@ MultiWiiReloaded Website but not Finshed
 https://lejosplayy.github.io/MultiWiiReloaded/index.html
 
 
-New Project Soon
-==================================================================
-NeonSkyFlight Software
 
-Precision Meets Performance in Every Flight
-==================================================================
+
+NeonSkyFlight Software Precision Meets Performance in Every Flight
+================
+
+Flightcontroller Software based on MultiWii Soon
+
